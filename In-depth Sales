@@ -1,0 +1,14 @@
+## In-depth Sales Analysis in India
+
+![In-depth Sales Analysis](./in-depth-sales.jpg)
+
+### Report Overview
+This analysis compares the year-over-year (YoY) percentage changes in sales units for various Indian states between 2020 and 2021. The report identifies key trends and top-performing states by total units sold.
+
+### Key Insights
+- **Highest Decline**: Tripura saw a -94% decrease in YoY sales.
+- **Top Sales States**: Andhra Pradesh and Tamil Nadu had the highest total units sold.
+- **Overall Sales Decline**: A 19% overall decrease in sales units from 2020 to 2021 across the listed states.
+
+### View the Power BI Report
+[Click here to view the interactive Power BI report](https://app.powerbi.com/MobileRedirect.html?ctid=e9263ac1-afbc-42ac-8570-240f2d157051&reportObjectId=20a6a420-44c4-460f-b755-fcb75d4a1efb&action=OpenReport&Context=share-report&groupObjectId=7393bf4b-2900-4c2b-9cd3-557cec963222&bookmarkGuid=57fd6fe7-170b-455e-80ec-fef0a6219e8d&reportPage=ReportSection&pbi_source=mobile_io).
